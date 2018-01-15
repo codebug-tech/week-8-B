@@ -20,5 +20,5 @@
 
 ### Challenge, Challenge, Challenge
 1. Make an array of 10 numbers. Write a **FUNCTION** takes in an array of numbers (in this case the array you just made), and returns the sum of all the numbers. Please use the `+=` operator, and no built-in JavaScript functions.
-  *![Help](images/helper.png)
+  -![Help](images/helper.png)
 1. Blast Off!!! Write a **FUNCTION** called `blastOff` that takes in a number and counts down to zero from that number. When the countdown gets to zero print out, "BLAST OFF!!!"
